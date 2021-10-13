@@ -20,7 +20,7 @@
 
 - 🎮 <strong> Hobbies </strong> </br> I have a lot of hobbies, so I'll say only three: Play my video games, watch sci-fi movies and build some mods for Skyrim Special Edition (SKSE) and Dragon's Dogma Dark Arisen (DDDA).
 
-- 💬 <strong> Curiosity </strong> </br>  My favorite car is Koenigsegg Gemera koenigsegg gemera, as you can see below:
+- 💬 <strong> Curiosity </strong> </br>  My favorite car is Koenigsegg Gemera, as you can see below:
 <img alt="Gemera-pic" height="150" style="border-radius:50px;" src="https://quatrorodas.abril.com.br/wp-content/uploads/2021/06/koenigsegg_gemera.jpg?quality=70&strip=info">
 
 
