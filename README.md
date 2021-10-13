@@ -1,4 +1,4 @@
-### Hello, I'm Vinícius Oliveira 👋
+## Hello, I'm Vinícius Oliveira 👋
 
 - 🤔 <strong> Who am I? </strong> </br> I'm a person who lives up to the term "geek". Yes, I love video games, I like fiction movies a lot, I really like books/novels that take place in alternative worlds, and obviously I'm a passionate dude about technologies and their applications.
 
@@ -20,7 +20,7 @@
 
 - 🎮 <strong> Hobbies </strong> </br> I have a lot of hobbies, so I'll say only three: Play my video games, watch sci-fi movies and build some mods for Skyrim Special Edition (SKSE) and Dragon's Dogma Dark Arisen (DDDA).
 
-- 💬 <strong> Curiosity </strong> </br>  My favourite car is Koenigsegg Gemera koenigsegg gemera, as you can see below:
+- 💬 <strong> Curiosity </strong> </br>  My favorite car is Koenigsegg Gemera koenigsegg gemera, as you can see below:
 <img alt="Gemera-pic" height="150" style="border-radius:50px;" src="https://quatrorodas.abril.com.br/wp-content/uploads/2021/06/koenigsegg_gemera.jpg?quality=70&strip=info">
 
 
@@ -51,6 +51,9 @@
  
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
+ ### So, Let's go party Sif!
+ <img align="center" src="https://i.imgur.com/byTgyKg.gif">
+  
 </div>
 
 ---
