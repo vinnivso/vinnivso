@@ -35,7 +35,6 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinnivso&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   <div style="display: inline_block"><br>
-  <img align="center" alt="vinnivso-github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" >
   <img align="center" alt="vinnivso-stackoverflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">
   <img align="center" alt="vinnivso-slack" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
   <img align="center" alt="vinnivso-HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -51,7 +50,6 @@
   <img align="center" alt="vinnivso-Nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
   <img align="center" alt="vinnivso-Expressjs" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
   <img align="center" alt="vinnivso-MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-  <img align="center" alt="vinnivso-Markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
 </div>
   
 <br/>
