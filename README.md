@@ -59,12 +59,16 @@
   <a href ="mailto:vinnivsob@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/vinicius-oliveira-developer" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- 
- ### So, Let's go party Sif!
- <img align="center" src="https://i.imgur.com/byTgyKg.gif">
+  ---
+  
+  <!-- GIF MARIO -->
+  <h1 align="center">
+    <a>
+      <img src="https://user-images.githubusercontent.com/78452566/140799812-a9c3a701-3b74-47fb-be11-c2363d68cd31.gif">
+    </a>
+  </h1>
   
 </div>
 
----
+
 
