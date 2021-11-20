@@ -51,7 +51,6 @@
   <img align="center" alt="vinnivso-Expressjs" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
   <img align="center" alt="vinnivso-MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 </div>
-  
 <br/>
 <br/>
   
