@@ -9,7 +9,7 @@
 - 👨‍🎓 <strong> Bachelor's degree </strong> </br> Yap, I'm a Mechanical Enginner, but my heart, and my passion belongs to the world of programming.
 
 
-- 🌱 <strong> Studying </strong> </br> Actually, I'm studying to become a full stack developer: So, I'm practicing and developing applications with: Javascript, React.js, Node.js, Typescript, HTML, CSS, AWS, SQL and some amazing adventures with Three.js.
+- 🌱 <strong> Studying </strong> </br> Actually, I'm studying to become a full stack developer. So, I'm practicing and developing applications with: Javascript, React.js, Node.js, Typescript, HTML, CSS, AWS, SQL and some amazing adventures with Three.js.
 
 
 - 📈 <strong> Looking for </strong> </br> I'm looking for opportunities to build a carreer as a Web Developer.
