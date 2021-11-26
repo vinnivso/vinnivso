@@ -11,6 +11,13 @@
 
 - 🌱 <strong> Studying </strong> </br> Actually, I'm studying to become a full stack developer. So, I'm practicing and developing applications with: Javascript, React.js, Node.js, Typescript, HTML, CSS, AWS, SQL and some amazing adventures with Three.js.
 
+    [<img align="left" height="94px" width="94px" alt="Infracommerce" src="https://user-images.githubusercontent.com/73656973/135145144-b8572a6c-b44e-4337-9b83-bde7f21b9327.png"/>](https://www.labenu.com.br/)
+    **Full Stack Developer Student** \
+    [**Labenu**](https://www.labenu.com.br/) • 2021/Jun - 2021/Dec \
+    `HTML`, `CSS`, `ReactJS`, `NodeJS`, `Jest`, `Javascript`, \
+    `Typescript`, `MySQL `, `AWS`,  `Firebase` \
+    <br/>
+
 
 - 📈 <strong> Looking for </strong> </br> I'm looking for opportunities to build a carreer as a Web Developer.
 
