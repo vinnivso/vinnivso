@@ -30,8 +30,14 @@
 
 - 😄 <strong> Don't be shy, my social contacts are displayed below. </strong>
 
-  <a href ="mailto:vinnivsob@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/vinicius-oliveira-developer" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" width="110" align ="center">](mailto:vinnivsob@gmail.com)
+<a href="https://www.linkedin.com/in/vinicius-oliveira-developer/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" height="30" width="110" /></a>
+<a href="https://api.whatsapp.com/send?phone=5511989638553" target="blank"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp" height="30" width="110" /></a>
+
+<div>  
+  <h4> Visitors </h4>
+  <img src="https://profile-counter.glitch.me/vinnivso/count.svg">
+</div> 
 
 </br>
 </br>
