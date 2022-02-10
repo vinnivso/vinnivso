@@ -57,6 +57,7 @@
   <img align="center" alt="vinnivso-MaterialUI" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white">
   <img align="center" alt="vinnivso-React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img align="center" alt="vinnivso-ReactRouter" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white">
+    <br/>
   <img align="center" alt="vinnivso-Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
     <br/>
     <br/>
@@ -67,6 +68,7 @@
   <img align="center" alt="vinnivso-Expressjs" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
   <img align="center" alt="vinnivso-MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
   <img align="center" alt="vinnivso-PostgresSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+    <br/>
   <img align="center" alt="vinnivso-Prisma" src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white">
 </div>
 <br/>
