@@ -76,4 +76,4 @@
  
   ---
   
-  ![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
+  ![snake gif](https://github.com/vinnivso/vinnivso/blob/output/github-contribution-grid-snake.gif)
