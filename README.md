@@ -76,17 +76,6 @@
  
   ---
   
-  ![Snake animation](https://github.com/vinnnivso/vinnivso/blob/output/github-contribution-grid-snake.svg)
-  
-   ---
-  <!-- GIF MARIO -->
-  <h1 align="center">
-    <a>
-      <img src="https://user-images.githubusercontent.com/78452566/140799812-a9c3a701-3b74-47fb-be11-c2363d68cd31.gif">
-    </a>
-  </h1>
-  
-</div>
-
+  ![Snake animation](https://github.com/vinnivso/vinnivso/blob/output/github-contribution-grid-snake.svg)
 
 
