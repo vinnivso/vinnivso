@@ -76,6 +76,9 @@
  
   ---
   
+  ![Snake animation](https://github.com/vinnnivso/vinnivso/blob/output/github-contribution-grid-snake.svg)
+  
+   ---
   <!-- GIF MARIO -->
   <h1 align="center">
     <a>
