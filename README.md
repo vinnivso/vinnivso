@@ -20,10 +20,7 @@
     <br/>
 
 
-- 📈 <strong> Looking for </strong> </br> I'm looking for opportunities to build a carreer as a Web Developer.
-
-
-- 👯 <strong> I'm looking to collaborate </strong> </br> Any opportunity attached with Web Developing and Game Modding (One of my hobbies).
+- 📈 <strong> Looking for </strong> </br> I'm looking for opportunities to build a carreer as a BACK END DEVELOPER.
 
 
 - 🎮 <strong> Hobbies </strong> </br> I have a lot of hobbies, so I'll say only three: Play my video games, watch sci-fi movies and build some mods for Skyrim Special Edition (SKSE) and Dragon's Dogma Dark Arisen (DDDA).
