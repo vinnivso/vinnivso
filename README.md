@@ -7,10 +7,10 @@
 - 😎 <strong> An interesting fact about me </strong> </br> I'm not afraid of making mistakes and to be honest, I love it! I believe in the importance of living these experiences, that's why I believe the mistakes are part of a fundamental trajectory in learning, I'm not afraid of exposure and I really like to share my experience.
 
 
-- 👨‍🎓 <strong> Bachelor's degree </strong> </br> Yap, I'm a Mechanical Enginner, but my heart, and my passion belongs to the world of programming.
+- 👨‍🎓 <strong> Bachelor's degree </strong> </br> Yap, I'm a Mechanical Enginner and a student of Cyber Defense Technologies.
 
 
-- 🌱 <strong> Studying </strong> </br> Actually, I'm studying to become a full stack developer. So, I'm practicing and developing applications with: Javascript, React.js, Node.js, Typescript, HTML, CSS, AWS, SQL and some amazing adventures with Three.js.
+- 🌱 <strong> Studying </strong> </br> Actually, I'm studying to become a full stack developer. So, I'm developing applications with: Javascript, Node.js, Typescript, AWS, SQL and JAVA.
 
 - 📈 <strong> Looking for </strong> </br> I'm looking for opportunities to build a carreer as a BACK END DEVELOPER.
 
