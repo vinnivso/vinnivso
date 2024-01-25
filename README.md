@@ -10,7 +10,7 @@
 - 👨‍🎓 <strong> Bachelor's degree </strong> </br> Yap, I'm a Mechanical Enginner and a student of Cyber Defense Technologies.
 
 
-- 🌱 <strong> Studying </strong> </br> Actually, I'm studying to become a full stack developer. So, I'm developing applications with: Javascript, Node.js, Typescript, AWS, SQL and JAVA.
+- 🌱 <strong> Studying </strong> </br> Actually, I'm studying to become a BACKEND SPECIALIST DEVELOPER. So, I'm developing applications with: Javascript, Node.js, Typescript, AWS, SQL and JAVA.
 
 - 📈 <strong> Looking for </strong> </br> I'm looking for opportunities to build a carreer as a BACK END DEVELOPER.
 
