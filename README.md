@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Vinícius Oliveira</h1>
-<h3 align="center">A passionate developer from Brazil</h3>
+<h3 align="center">BACKEND DEVELOPER</h3>
 
 - 🤔 <strong> Who am I? </strong> </br> I'm a person who lives up to the term "geek". Yes, I love video games, I like fiction movies a lot, I really like books/novels that take place in alternative worlds, and obviously I'm a passionate dude about technologies and their applications.
 
