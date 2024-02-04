@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Vinícius Oliveira</h1>
 <h3 align="center">BACKEND DEVELOPER</h3>
 
-- 😎 <strong> An interesting fact about me </strong> </br> I'm not afraid of making mistakes and to be honest, I love it! I believe in the importance of living these experiences, that's why I believe the mistakes are part of a fundamental trajectory in learning, I'm not afraid of exposure and I really like to share my experience.
+- 😎 <strong> An interesting fact about me </strong> </br> I'm not afraid of making mistakes. I believe in the importance of living these experiences, that's why I believe the mistakes are part of a fundamental trajectory in learning, I'm not afraid of exposure and I really like to share my experience.
 
 
 - 👨‍🎓 <strong> Bachelor's degree </strong> </br> Yap, I graduated as a Mechanical Engineer, but I am currently a Backend Developer and student of Cyber Defense.
