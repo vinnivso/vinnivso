@@ -1,20 +1,15 @@
 <h1 align="center">Hello, I'm Vinícius Oliveira</h1>
 <h3 align="center">BACKEND DEVELOPER</h3>
 
-- 🤔 <strong> Who am I? </strong> </br> I'm a person who lives up to the term "geek". Yes, I love video games, I like fiction movies a lot, I really like books/novels that take place in alternative worlds, and obviously I'm a passionate dude about technologies and their applications.
-
-
 - 😎 <strong> An interesting fact about me </strong> </br> I'm not afraid of making mistakes and to be honest, I love it! I believe in the importance of living these experiences, that's why I believe the mistakes are part of a fundamental trajectory in learning, I'm not afraid of exposure and I really like to share my experience.
 
 
-- 👨‍🎓 <strong> Bachelor's degree </strong> </br> Yap, I'm a Mechanical Enginner and a student of Cyber Defense Technologies.
+- 👨‍🎓 <strong> Bachelor's degree </strong> </br> Yap, I graduated as a Mechanical Engineer, but I am currently a Backend Developer and student of Cyber Defense.
 
 
-- 🌱 <strong> Studying </strong> </br> Actually, I'm studying to become a BACKEND SPECIALIST DEVELOPER. So, I'm developing applications with: Javascript, Node.js, Typescript, AWS, SQL and JAVA.
+- 🌱 <strong> Studying </strong> </br> Actually, I'm BACKEND DEVELOPER and constantly studying to became a specialist. So, I'm developing applications with: JAVA, Spring, Javascript, Typescript, Node.js, Nest.js, AWS and SQL.
 
-- 📈 <strong> Looking for </strong> </br> I'm looking for opportunities to build a carreer as a BACK END DEVELOPER.
-
-- 🎮 <strong> Hobbies </strong> </br> I have a lot of hobbies, so I'll say only three: Play my video games, watch sci-fi movies and build some mods for Skyrim Special Edition (SKSE) and Dragon's Dogma Dark Arisen (DDDA).
+- 📈 <strong> Looking for </strong> </br> I'm looking for opportunities to improve my skills as a BACK END DEVELOPER and CYBER DEFENSE.
 
 - 😄 <strong> Don't be shy, my social contacts are displayed below. </strong>
 
@@ -35,24 +30,22 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinnivso&layout=compact&langs_count=8&theme=dark"/>
 </div>
     
-  <h3 align="left">🚀💻 Technologies, Languages & Tools:</h3>
-  <div style="display: inline_block"><br>
-  <img align="center" alt="vinnivso-slack" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
-  <img align="center" alt="vinnivso-HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img align="center" alt="vinnivso-CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img align="center" alt="vinnivso-StyledComponents" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
-  <img align="center" alt="vinnivso-MaterialUI" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white">
-  <img align="center" alt="vinnivso-React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-  <img align="center" alt="vinnivso-ReactRouter" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white">
-  <img align="center" alt="vinnivso-Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
-    <br/>
-    <br/>
+<h3 align="left">🚀💻 Technologies, Languages & Tools:</h3>
+<div style="display: inline_block">
+  <img align="center" alt="vinnivso-JAVA" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img align="center" alt="vinnivso-Spring" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white">
+  <img align="center" alt="vinnivso-Maven" src="https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white">
+  <img align="center" alt="vinnivso-MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
+  <img align="center" alt="vinnivso-Postgres" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img align="center" alt="SQLite" src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white">
   <img align="center" alt="vinnivso-Js" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
   <img align="center" alt="vinnivso-Ts" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-  <img align="center" alt="vinnivso-Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
   <img align="center" alt="vinnivso-Nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
+  <img align="center" alt="vinnivso-Nestjs" src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white">
   <img align="center" alt="vinnivso-Expressjs" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
-  <img align="center" alt="vinnivso-MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-  <img align="center" alt="vinnivso-PostgresSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
   <img align="center" alt="vinnivso-Prisma" src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white">
+  <img align="center" alt="vinnivso-Jest" src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white">
+  <img align="center" alt="vinnivso-Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
+  <img align="center" alt="vinnivso-Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+  <img align="center" alt="vinnivso-Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 </div>
