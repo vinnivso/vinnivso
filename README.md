@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Vinícius Oliveira</h1>
-<h3 align="center">BACKEND DEVELOPER</h3>
+<h3 align="center">BACKEND DEVELOPER and CYBER DEFENSE STUDENT</h3>
 
 - 😎 <strong> An interesting fact about me </strong> </br> I'm not afraid of making mistakes. I believe in the importance of living these experiences, that's why I believe the mistakes are part of a fundamental trajectory in learning, I'm not afraid of exposure and I really like to share my experience.
 
